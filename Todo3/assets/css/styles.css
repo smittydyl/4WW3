@@ -1,0 +1,20 @@
+html, body {
+    height:100%;
+} 
+
+.bg {
+    background-image: url('../images/jeremy-bishop-dR_q93lfaTw-unsplash.jpeg');
+  
+    /* Full height */
+    height: 50%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
